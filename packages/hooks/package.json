@@ -1,0 +1,7 @@
+{
+  "name": "@klapp/hooks",
+  "version": "0.0.0",
+  "dependencies": {
+    "@klapp/navigation": "0.0.0"
+  }
+}

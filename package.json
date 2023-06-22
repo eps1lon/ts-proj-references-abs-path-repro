@@ -1,0 +1,13 @@
+{
+  "name": "ts-proj-references-abs-path-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "typescript": "5.1.3"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

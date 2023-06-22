@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "declaration": true,
+    "moduleResolution": "NodeNext",
+    "noEmit": false,
+    "outDir": "./types/dist",
+    "rootDir": ".",
+    "strict": true
+  }
+}
